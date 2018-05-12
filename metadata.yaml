@@ -11,6 +11,8 @@ creator:
 description: Lyon, Lemuel. Military journal for 1758.--Hawes, Samuel. A journal for
   1775, A.D.--Supplement, containing official papers on the skirmishes at Lexington
   and Concord, and a list of revolutionary articles in the Poughkeepsie museum.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20636#The-Military-Journals-of-Two-Private-Soldiers-1758-1775With-Numerous-Illustrative-Notes
 gutenberg_issued: '2007-02-21'
 gutenberg_type: Text
 identifiers:
