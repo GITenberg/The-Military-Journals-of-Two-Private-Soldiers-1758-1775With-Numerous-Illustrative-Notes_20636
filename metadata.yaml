@@ -1,0 +1,33 @@
+_repo: The-Military-Journals-of-Two-Private-Soldiers-1758-1775With-Numerous-Illustrative-Notes_20636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tomlinson, Abraham
+    gutenberg_agent_id: '9431'
+    url: http://www.gutenberg.org/2009/agents/9431
+description: Lyon, Lemuel. Military journal for 1758.--Hawes, Samuel. A journal for
+  1775, A.D.--Supplement, containing official papers on the skirmishes at Lexington
+  and Concord, and a list of revolutionary articles in the Poughkeepsie museum.
+gutenberg_issued: '2007-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20636'
+  lccn: '01020737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Concord, Battle of, Concord, Mass., 1775'
+- !lcc 'E201'
+- !lcsh 'Lexington, Battle of, Lexington, Mass., 1775'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Personal
+  narratives'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Personal narratives'
+title: 'The Military Journals of Two Private Soldiers, 1758-1775
+
+  With Numerous Illustrative Notes'
+url: http://www.gutenberg.org/ebooks/20636
